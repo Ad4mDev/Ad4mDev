@@ -33,7 +33,7 @@ const Fnr = {
 ---
 <h3>My GitHub Stats 📊</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad4mDev&theme=radical&show_icons=true)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad4mDev&theme=radical&show_icons=true)
 <br>
 --
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4mDev&theme=radical&layout=compact)
