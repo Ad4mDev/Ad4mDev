@@ -21,7 +21,7 @@
 
 <h3>About Me ✨</h3>
 
-```sh
+```js
 const Fnr = {
     name: "Adam",
     age: 16,
@@ -33,10 +33,10 @@ const Fnr = {
 ---
 <h3>My GitHub Stats 📊</h3>
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad4mDev&theme=radical&show_icons=true)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad4mDev&count_private=true&show_icons=true&theme=radical)
 <br>
 --
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4mDev&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad4mdev&layout=compact&theme=synthwave)
 
 ---
 
@@ -53,3 +53,8 @@ const Fnr = {
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 </p>
+
+---
+## Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-1/764447645673455616.png)
+
