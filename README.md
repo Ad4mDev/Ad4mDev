@@ -36,7 +36,7 @@ const Fnr = {
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad4mDev&count_private=true&show_icons=true&theme=radical)
 <br>
 --
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad4mdev&layout=compact&theme=synthwave)
+![Most Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ad4mdev&layout=compact&theme=synthwave)
 
 ---
 
