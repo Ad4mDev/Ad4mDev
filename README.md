@@ -22,7 +22,7 @@
 <h3>About Me ✨</h3>
 
 ```js
-const Fnr = {
+const Adam = {
     name: "Adam",
     age: 16,
     from: "Morocco",
