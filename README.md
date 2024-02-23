@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-  <a href="https://discord.gg/4KVHc7zdBJ">
+  <a href="https://discord.gg/2VvP2MxYzB">
   <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/AD4amX">
@@ -9,7 +9,7 @@
 <a href="https://github.com/Ad4mDev">
   <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/adamx_ofc/">
+<a href="https://www.instagram.com/__advmx__/">
   <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
 </a>
   </samp>
@@ -24,7 +24,7 @@
 ```js
 const Adam = {
     name: "Adam",
-    age: 16,
+    age: 18,
     from: "Morocco",
     Discord: "! Ad4m.#1458",
     languages: ["Python", "HTML", "CSS", "JavaScript", "EJS", "Java" , "React.JS" , "Vue.JS" , "Next.js"]
