@@ -27,7 +27,7 @@ const Adam = {
     age: 18,
     from: "Morocco",
     Discord: "! Ad4m.#1458",
-    languages: ["Python", "HTML", "CSS", "JavaScript", "EJS", "Java" , "React.JS" , "Vue.JS" , "Next.js"]
+    languages: ["Python", "HTML", "CSS", "TypeScript", "JavaScript", "EJS", "Java" , "React.JS" , "Vue.JS" , "Next.js"]
 };
 ```
 ---
